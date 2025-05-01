@@ -1,6 +1,6 @@
 forked from https://github.com/RaghavVenkat/maya-color-tdskeys
 
-changed the red color script to instead be default (red) and not custom (red)
+changed the red color script to instead be default (red) and not custom (red) through the power of the -skibidisigma flag
 
 # maya-color-tdskeys
 Simple MEL scripts to quickly color the timeslider key ticks in maya. 
