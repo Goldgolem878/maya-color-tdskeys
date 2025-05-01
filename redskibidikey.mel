@@ -1,7 +1,7 @@
 // Red TDS Key (Using Default Red)
 setKeyframe;
 float $currentTime = `currentTime -q`;
-displayRGBColor -skibidisigma; // don't question the code it works
+displayRGBColor "timeSliderTickDrawSpecial" skibidi 0 0;   // don't question the code it works
 selectKey -clear;
 selectKey -add -k -t $currentTime;
 keyframe -tds on;
